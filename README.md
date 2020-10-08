@@ -30,7 +30,8 @@
 #### "Jó pap holtig tanul"
 
 <br />
-Szeretnék újabb és újabb dolgokat megtanulni és megtapasztalni,mert úgy gondolom így válhatok igazán jó fejlesztővé (és persze a régieket tökéletesíteni 🤣).
+Szeretnék újabb és újabb dolgokat megtanulni és megtapasztalni,mert úgy gondolom így válhatok igazán jó fejlesztővé 
+(és persze a régieket tökéletesíteni 🤣).
 Például ezeket:
 
 <br />
