@@ -4,8 +4,8 @@
 
 ### Kaselyák Bence vagyok, Fejlesztő
 
--  Jelenleg Programtervező Informatikus Bsc szakom utolsó évébe járok az ELTÉn
--  Szeretném elvégezni a Programtervető Informatikus Msc-t szintén itt az ELTÉn
+-  Jelenleg Programtervező Informatikus Bsc szakom utolsó évét töltöm az ELTE-n
+-  Szeretném elvégezni a Programtervető Informatikus MSc-t szintén itt az ELTE-n
 -  Fullstack fejlesztőként szeretnék elhelyezkedni 
 
 ### Nyelvek és eszközök amiket használok:
