@@ -45,7 +45,7 @@ Például ezeket:
 
 ### Elérhetőségek:
 Amennyiben el szeretnél érni:
- - kaselyakbence@gmail.com
+ - kaselyakbence.dev@gmail.com
  - 06309194154
  
  A CV-met pedig [itt](https://github.com/kaselyakbence/kaselyakbence/blob/main/cv.pdf) megtalálod.
