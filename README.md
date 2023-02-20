@@ -1,14 +1,14 @@
-## Helló 👋
+## Hi 👋
 
 
 
-### Kaselyák Bence vagyok, Fejlesztő
+### I'm Bence Kaselyák, Software Developer
 
--  Jelenleg Programtervező Informatikus Bsc szakom utolsó évét töltöm az ELTE-n
--  Szeretném elvégezni a Programtervető Informatikus MSc-t szintén itt az ELTE-n
--  Fullstack fejlesztőként szeretnék elhelyezkedni 
+-  I finished my Bachelor's degree in Computer Science at Eötvös Lóránd University in my home country, Hungary.
+-  I worked as a Frontend Developer for 1,5 years with MOHAnet Mobilsystems.
+-  Right now I'm attending my Master's degree at the University of Copenhagen.
 
-### Nyelvek és eszközök amiket használok:
+### Languages and tools I use:
 
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
@@ -28,13 +28,11 @@
 <br />
 <br />
 
-### Új eszközök:
-#### "Jó pap holtig tanul"
+### New tools:
 
 <br />
-Szeretnék újabb és újabb dolgokat megtanulni és megtapasztalni,mert úgy gondolom így válhatok igazán jó fejlesztővé 
-(és persze a régieket tökéletesíteni 🤣). <br />
-Például ezeket:
+I would like to earn relevant experience with new tools, because I thing a great developer understand every segment of software development.  <br />
+Like these:
 
 
 
@@ -45,12 +43,12 @@ Például ezeket:
 <br />
 
 
-### Elérhetőségek:
-Amennyiben el szeretnél érni:
+### Contact:
+Feel free to contact me at:
  - kaselyakbence.dev@gmail.com
- - 06309194154
+ - +4550290490
  
- A CV-met pedig [itt](https://github.com/kaselyakbence/kaselyakbence/blob/main/cv.pdf) megtalálod.
+ You can find my CV [here](https://github.com/kaselyakbence/kaselyakbence/blob/main/cv.pdf)
   
 
 [vscode]: https://code.visualstudio.com/
