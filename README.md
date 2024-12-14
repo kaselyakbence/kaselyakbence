@@ -36,7 +36,7 @@ I'm currently learning the following tools:
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][kubernetes]
 <br />
-I'm also preparig to take the AWS Certified Cloud Practitioner exam.
+I'm currently preparing to take the AWS Certified Cloud Practitioner exam.
 <br />
 
 
