@@ -30,12 +30,13 @@
 
 ### New tools:
 I would like to earn relevant experience with new tools, because I thing a great developer understand every segment of software development.  <br />
-I'm currently studying to receive my AWS Certified Cloud Practicioner Certificate.
+I'm currently learning the following tools:
 <br />
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][aws]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][kubernetes]
 <br />
+I'm also preparig to take the AWS Certified Cloud Practitioner exam.
 <br />
 
 
