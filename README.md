@@ -43,8 +43,8 @@ I'm currently preparing to take the AWS Certified Cloud Practitioner exam.
 
 ### Contact:
 Feel free to contact me at:
- - kaselyakbence.de@gmail.com
- - +49 15203757361
+ - bencekaselyak@gmail.com
+ - +49 01774821207
  - My [LinkedIn](https://www.linkedin.com/in/bencekaselyak/)
  
  You can find my CV [here](https://github.com/kaselyakbence/kaselyakbence/blob/main/cv.pdf).
