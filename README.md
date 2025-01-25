@@ -1,15 +1,14 @@
-## Hi 👋
+# Hi 👋
 
+## I'm Bence Kaselyák, Software Developer & Software Tester
 
-
-### I'm Bence Kaselyák, Software Developer & Software Tester
-
--  I finished my Bachelor's degree in Computer Science at Eötvös Lóránd University in my home country, Hungary.
--  I worked as a Frontend Developer for 1,5 years with MOHAnet Mobilsystems.
--  I studied for a year at the University of Copenhagen.
+- I finished my Bachelor's degree in Computer Science at Eötvös Lóránd University in my home country, Hungary.
+- I worked as a Frontend Developer for 1,5 years with MOHAnet Mobilsystems.
+- I studied for a year at the University of Copenhagen.
 - Now I live and work in the exciting city of Berlin, Germany.
 
-### Languages and tools I use:
+## Languages and tools I use:
+
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][ts]
@@ -43,13 +42,13 @@ I'm currently preparing to take the AWS Certified Cloud Practitioner exam.
 
 ### Contact:
 Feel free to contact me at:
- - bencekaselyak@gmail.com
- - +49 01774821207
- - My [LinkedIn](https://www.linkedin.com/in/bencekaselyak/)
- 
+
+- bencekaselyak@gmail.com
+- +49 01774821207
+- My [LinkedIn](https://www.linkedin.com/in/bencekaselyak/)
+
  You can find my CV [here](https://github.com/kaselyakbence/kaselyakbence/blob/main/cv.pdf).
   
-
 [vscode]: https://code.visualstudio.com/
 [html5]: https://hu.wikipedia.org/wiki/HTML5
 [css3]: https://hu.wikipedia.org/wiki/Cascading_Style_Sheets
@@ -69,4 +68,3 @@ Feel free to contact me at:
 [python]: https://www.python.org/
 [aws]: https://aws.amazon.com/
 [java]: https://www.java.com/en/
-
