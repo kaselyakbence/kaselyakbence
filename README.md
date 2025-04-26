@@ -7,7 +7,11 @@
 - I studied for a year at the University of Copenhagen.
 - Now I live and work in the exciting city of Berlin, Germany.
 
-## Languages and tools I use:
+## Certifications
+
+- **ISTQB** - Certified Tester Foundation Level
+
+## Languages and tools I use
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
@@ -27,34 +31,35 @@
 <br />
 <br />
 
-### New tools:
-I would like to earn relevant experience with new tools, because I thing a great developer understand every segment of software development.  <br />
+### New tools
+
+I would like to earn relevant experience with new tools, because I thing a great developer understand every segment of software development. <br />
 I'm currently learning the following tools:
 <br />
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][aws]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][kubernetes]
 <br />
-<!-- <br />
+<br />
 I'm currently preparing to take the AWS Certified Cloud Practitioner exam.
-<br /> -->
+<br />
 
+### Contact
 
-### Contact:
 Feel free to contact me at:
 
 - bencekaselyak@gmail.com
 - +49 01774821207
 - My [LinkedIn](https://www.linkedin.com/in/bencekaselyak/)
 
- You can find my CV [here](https://github.com/kaselyakbence/kaselyakbence/blob/main/cv.pdf).
-  
+You can find my CV [here](https://github.com/kaselyakbence/kaselyakbence/blob/main/cv.pdf).
+
 [vscode]: https://code.visualstudio.com/
 [html5]: https://hu.wikipedia.org/wiki/HTML5
 [css3]: https://hu.wikipedia.org/wiki/Cascading_Style_Sheets
 [scss]: https://sass-lang.com/
 [js]: https://hu.wikipedia.org/wiki/JavaScript
-[ts]:  https://www.typescriptlang.org/
+[ts]: https://www.typescriptlang.org/
 [react]: https://reactjs.org/
 [nodejs]: https://nodejs.org/en/
 [postgres]: https://www.postgresql.org/
