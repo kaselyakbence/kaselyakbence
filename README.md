@@ -2,12 +2,12 @@
 
 ## I'm Bence Kaselyák, Software Developer & Software Tester
 
-My [Website](https://kaselyakbence.com/)
-
 - I finished my Bachelor's degree in Computer Science at Eötvös Lóránd University in my home country, Hungary.
 - I worked as a Frontend Developer for 1,5 years with MOHAnet Mobilsystems.
 - I studied for a year at the University of Copenhagen.
 - Now I live and work in the exciting city of Berlin, Germany.
+
+My [Website](https://kaselyakbence.com/)
 
 ## Certifications
 
