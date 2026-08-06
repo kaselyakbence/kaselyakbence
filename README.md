@@ -1,6 +1,6 @@
 # Hi 👋
 
-## I'm Bence Kaselyák, Software Developer
+## I'm Bence Kaselyák, Software Developer & Software Tester
 
 - I finished my Bachelor's degree in Computer Science at Eötvös Lóránd University in my home country, Hungary (2018–2021).
 - I worked as a Frontend Developer for 1,5 years with MOHAnet Mobilsystems (2021–2022).
