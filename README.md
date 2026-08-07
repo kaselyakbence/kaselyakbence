@@ -15,10 +15,12 @@
 <tr>
 <td valign="middle"><a href="https://www.credly.com/badges/f0cdd85f-dc39-4e57-9315-0a22467e1965/public_url"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="40" alt="AWS Certified Cloud Practitioner" /></a></td>
 <td valign="middle">AWS Certified Cloud Practitioner</td>
+<td valign="middle">May 2025</td>
 </tr>
 <tr>
 <td valign="middle"><a href="https://atsqa.org/certified-testers/profile/41704efe023244fc9cff4609724a5013"><img src="https://kaselyakbence.com/assets/istqb-ctfl-Bqpw2T_6.png" height="40" alt="ISTQB Certified Tester, Foundation Level" /></a></td>
 <td valign="middle">ISTQB Certified Tester, Foundation Level</td>
+<td valign="middle">March 2025</td>
 </tr>
 </table>
 
@@ -50,7 +52,7 @@ I would like to earn relevant experience with new tools, because I thing a great
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][kubernetes]
 <br />
 <br />
-I'm currently preparing for the AWS Certified Solutions Architect - Associate Exam and a German Göethe Exam.
+I'm currently preparing for the AWS Certified AI Practitioner Exam and a German Göethe Exam.
 <br />
 
 ## Languages
